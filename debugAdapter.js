@@ -17841,3 +17841,12 @@ object-assign/index.js:
   @license MIT
   *)
 */
+&& (module.exports = {
+  Delve,
+  GoDebugSession,
+  RemoteSourcesAndPackages,
+  escapeGoModPath,
+  findPathSeparator,
+  normalizeSeparators
+});
+/*! Bundled lice
